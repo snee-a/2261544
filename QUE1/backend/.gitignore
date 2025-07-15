@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+
+node_modules/
+
+
+logs/
+*.log
+npm-debug.log*
+
+
+pids
+*.pid
+*.seed
+*.pid.lock
+.env
+.DS_Store
+.vscode/
+=======
+node_modules/
+.env
+.DS_Store
+>>>>>>> e89f9d9d4ac1b0bbdc52a92af9a9ff040c1c0c21
